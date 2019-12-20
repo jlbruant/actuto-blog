@@ -13,4 +13,4 @@ S'il y est de type dynamique alors les pages web seront générées à la volée
 Je vais vous parler plus spécifiquement dans cet article des sites statique
 Site statique ne veut pas dire que le contenu ne peut pas évoluer avec le temps, la création des pages peut etre "dynamique" mais le serveur web diffuse des pages statiques
 
-Il existe un grand nombre de générateur de pages statiques 
+Il existe un grand nombre de <a href="https://www.staticgen.com/">générateur de pages statiques</a>

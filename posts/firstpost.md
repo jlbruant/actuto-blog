@@ -6,11 +6,12 @@ tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage 
 
-## Section Header
+Le contenu d'un site internet peut ^etre soit de type dynamique, soit de type statique
 
-Capitalize 
+## S
+
+Cap 
 
 ``` text/2-3
 

@@ -1,5 +1,5 @@
 ---
-title: Comment réaliser un Blog avec du contenu évolutif sans base de données.
+title: Comment réaliser un blog avec du contenu évolutif sans base de données.
 description: Explication pour réaliser un blog évolutif avec versionning du contenu.
 date: 2019-12-20
 tags:
@@ -10,7 +10,13 @@ layout: layouts/post.njk
 Le contenu d'un site internet peut etre soit de type dynamique, soit de type statique ou mélangeant les deux
 S'il y est de type dynamique alors les pages web seront générées à la volée à partir d'un programme installé au niveau du serveur web écrit dans un langage interprété ou compilé.
 
-Je vais vous parler plus spécifiquement dans cet article des sites statique
-Site statique ne veut pas dire que le contenu ne peut pas évoluer avec le temps, la création des pages peut etre "dynamique" mais le serveur web diffuse des pages statiques
+Je vais vous parler plus spécifiquement dans cet article des sites statiques.
+Site statique ne veut pas dire que le contenu ne peut pas évoluer avec le temps, la création des pages des sites statiques peut etre "dynamique" mais le serveur web diffuse des pages statiques
 
 Il existe un grand nombre de <a href="https://www.staticgen.com/">générateur de pages statiques</a>
+
+Ce blog a été généré par un générateur de pages statiques nommé 11ty (ou Elenventy), il se base sur Node.js
+Vous pouvez effectuer la mise à jour du contenu et la génération des pages en locale mais vous pouvez utiliser comme moi la combinaison 
+de GitHub pour mémoriser le contenu et de Netlify pour la génération et la publication des pages
+
+Dans des prochains articles, je donnerai plus de détails sur l'utilisation de 11ty.

@@ -3,7 +3,7 @@ title: Technologie LORA et protocole de télécommunication LORAWAN .
 description: Cet article montre une utilisation de la technologie LORA à travers The Things Network (TTN).
 date: 2019-12-23
 tags:
-  - number-2
+  - LORA
 layout: layouts/post.njk
 ---
 
